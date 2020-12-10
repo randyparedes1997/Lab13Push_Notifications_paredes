@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Notificaciones Push</string>
+    <string name="hintName">Nombre</string>
+    <string name="hintAge">Edad</string>
+    <string name="textSavePerson">Registrarse</string>
+    <string name="textTile">Notificaciones Push Automatizadas</string>
+    <string name="errorEmptyName">Ingrese un Nombre</string>
+    <string name="errorEmptyAger">Ingrese una Edad</string>
+    <string name="message">se acaba de registrar.</string>
+    <string name="textInstructions">Para ver el funcionamiento de las notificaciones, se tiene que tener la aplicación instalada en dos o mas dispositvos, en cualquiera de esos se puede realizar el registro y en cada dispositivo se notificara que se realizo un registro</string>
+    <string name="newRegister">Nuevo Registro</string>
+    <string name="textQuantity">"Cantidad de registros: "</string>
+    <string name="ok">OK</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "567092614205",
+    "project_id": "lab13pushnotifications",
+    "storage_bucket": "lab13pushnotifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567092614205:android:a829afc2cd08d551d0c654",
+        "android_client_info": {
+          "package_name": "com.example.lab13pushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567092614205-51h141tkst9gv12vq6fsumvfvrmrhue5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lab13pushnotifications",
+            "certificate_hash": "b7252f1c7bc28cf81f00bc2cf7a33b6bf04788ff"
+          }
+        },
+        {
+          "client_id": "567092614205-ef3pjklodq0ile99bopdes68o9lhidk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0IB8oDnSuuVHCQyu_SirEohtKbJiI1dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567092614205-ef3pjklodq0ile99bopdes68o9lhidk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Push Notifications</string>
+    <string name="hintName">Name</string>
+    <string name="hintAge">Age</string>
+    <string name="textSavePerson">Register</string>
+    <string name="textTile">Automated Push Notifications</string>
+    <string name="errorEmptyName">Enter a Name</string>
+    <string name="errorEmptyAger">Enter an Age</string>
+    <string name="message">has just been registered.</string>
+    <string name="textInstructions">To see the operation of notifications, you must have the application installed on two or more devices, in any of these you can make the registration and on each device it will be notified that a registration was made</string>
+    <string name="newRegister">New Registration</string>
+    <string name="textQuantity">"Number of records:"</string>
+    <string name="ok">OK</string>
+</resources>
